@@ -10,7 +10,7 @@ export default defineConfig({
       entry: "src/main.tsx",
       userscript: {
         icon: "https://www.google.com/s2/favicons?sz=64&domain=booklog.jp",
-        namespace: "npm/vite-plugin-monkey",
+        namespace: "https://masinc.dev",
         match: ["https://booklog.jp/item/*/*"],
         grant: "none",
       },
