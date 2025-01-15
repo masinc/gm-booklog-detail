@@ -9,7 +9,7 @@ export default defineConfig({
     monkey({
       entry: "src/main.tsx",
       userscript: {
-        icon: "https://vitejs.dev/logo.svg",
+        icon: "https://www.google.com/s2/favicons?sz=64&domain=booklog.jp",
         namespace: "npm/vite-plugin-monkey",
         match: ["https://booklog.jp/item/*/*"],
         grant: "none",
