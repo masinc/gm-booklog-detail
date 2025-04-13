@@ -19,7 +19,7 @@
     "@types/react": "^18.3.20",
     "@types/react-dom": "^18.3.6",
     "@vitejs/plugin-react": "^4.3.4",
-    "daisyui": "^4.12.24",
+    "daisyui": "^5.0.19",
     "postcss": "^8.5.3",
     "release-it": "^18.1.2",
     "release-it-pnpm": "^4.6.4",
