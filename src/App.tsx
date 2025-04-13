@@ -24,6 +24,10 @@ function App() {
       text: "bookfan (Yahoo)",
       url: `https://store.shopping.yahoo.co.jp/bookfan/search.html?X=4&p=${title}`,
     },
+    {
+      text: "ValueBooks",
+      url: `https://www.valuebooks.jp/search?keyword=${title}`,
+    },
   ];
 
   return (
